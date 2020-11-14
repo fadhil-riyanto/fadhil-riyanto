@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <center>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil-riyanto&layout=compact&hide=html" alt="fadhil-riyanto" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil-riyanto&layout=compact&hide=html" alt="fadhil-riyanto" /><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadhil-riyanto&show_icons=true" alt="fadhil-riyanto" /></p>
 </center>
 <p align="center">
