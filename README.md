@@ -1,17 +1,16 @@
-### Selamet datang di repository ane..... 👋
+### WELCOME 👋
 
-Bahasa pemrograman di repo ini itu
-- PHP
+I love programming languages
+- PHP (Hypertext Preprocessor)
 - JS (Javascript)
-- HTML
-- CSS
+- HTML (Oh no...this not languange programming)
+- CSS (Style)
 
-Ikan hiu makan tomat<br>
-Jalan jalan ke smp tiga tiga<br>
-Ehh jangan lupa commitnya git<br>
-Ntar lupa jadi masalah<br>
+I am a person who is easily attracted to something new.<br>
+such as functions, libraries and more.<br>
+Even new programming languages. I am still a student.<br>
 
-### Makasi ke "VS CODE, Github akun, laptop tercinta, Otak tersayang, teman teman kelas 9G, Pak muarifin, Pak Robiin, dan semua guru guru smp 33 dan alumni MI Mangunharjo"
+### Info
 
 - No coding no live...hehe
 - Ane kelas 9 Genetarion....smp 33 lah
