@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **id.fadhil.riyanto@gmail.com**
 
-### Blogs posts
+### Stats
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <center>
