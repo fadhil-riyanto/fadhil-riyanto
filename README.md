@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Riyanto</h1>
-<h3 align="center">I'm Fadhil Riyanto, a 22-year old technical programming who does web development. Passionate to contribute open-source projects and make cool products.</h3>
+<h3 align="center">I'm Fadhil Riyanto, a 14-year old technical programming who does web development. Passionate to contribute open-source projects and make cool products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhil-riyanto" alt="fadhil-riyanto" /> </p>
 
