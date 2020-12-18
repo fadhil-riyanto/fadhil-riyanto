@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhil-riyanto" alt="fadhil-riyanto" /> </p>
 
-- 🌱 I’m currently learning **PHP, NODEJS**
+- 🌱 I’m currently learning **PHP, NODEJS, GO**
 
 - 📫 How to reach me **id.fadhil.riyanto@gmail.com**
 
