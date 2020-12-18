@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhil-riyanto" alt="fadhil-riyanto" /> </p>
 
-- 🌱 I’m currently learning **PHP, NODEJS, GO**
+- 🌱 Sedang memperdalam Ilmu **PHP, NODEJS, GO**
 
-- 📫 How to reach me **id.fadhil.riyanto@gmail.com**
+- 📫 Email 1 jika ada keperluan **id.fadhil.riyanto@gmail.com**
+- 📫 Email 2 jika ada keperluan **hi@fadhilriyanto.eu.org**
 
 ### Stats
 <!-- BLOG-POST-LIST:START -->
