@@ -6,8 +6,8 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/) and [PHP](https://php.net/
 
 * Suka sama kesepian
 * Pemrogram expert di bahasa PHP
-* Like Go!
-* Contenct writter in [Fadhilriyanto.eu.org](https://www.fadhilriyanto.eu.org/)
+* Like PHP, NODE!
+* Contenct writter in [Developers.eu.org](https://www.Developers.eu.org/)
 * Windows hacker
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil-riyanto&hide=html)
