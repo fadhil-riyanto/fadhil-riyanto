@@ -5,7 +5,7 @@
 I ❤ Open Source. I love [Vim](https://www.vim.org/) and [PHP](https://php.net/).
 
 * Suka sama kesepian
-* Pemrogram expert di bahasa PHP
+* cinta bahasa PHP
 * Like PHP, NODE!
 * Contenct writter in [Developers.eu.org](https://www.Developers.eu.org/)
 * Windows hacker
