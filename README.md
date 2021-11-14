@@ -5,3 +5,7 @@ rsa3072 2021-11-03 [expires: 2026-11-02]
 Fadhil Riyanto <fadhil.riyanto@gnuweeb.org>
 
 curl -s https://github.com/fadhil-riyanto.gpg | gpg --import
+
+```
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil-riyanto&layout=compact&theme=github_dark&hide=html)](https://github.com/fadhil-riyanto)
