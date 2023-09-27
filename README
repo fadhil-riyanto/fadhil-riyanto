@@ -1,5 +1,4 @@
-rsa3072 2021-11-03 [expires: 2026-11-02]
-Fadhil Riyanto <fadhil.riyanto@gnuweeb.org>
-Telegram: fadhil_riyanto.t.me
+rsa3072 2023-09-27 [SC] [expires: 2025-09-26]
+Fadhil Riyanto <hi@fadhilriyanto.eu.org>
 
-curl -s https://github.com/fadhil-riyanto.gpg | gpg --import
+gpg --keyserver pgp.mit.edu --recv A40BF3856CD1BE14
