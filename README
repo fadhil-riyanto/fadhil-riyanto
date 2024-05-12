@@ -1,4 +1,16 @@
-rsa3072 2023-09-27 [SC] [expires: 2025-09-26]
-Fadhil Riyanto <hi@fadhilriyanto.eu.org>
+sec   ed25519 2024-05-09 [SC] [expires: 2027-05-09]
+      C4B74242E3C3A132389CB3734F722ECAC601B00A
+uid           [ultimate] Fadhil Riyanto <hi@fadev.org>
+ssb   cv25519 2024-05-09 [E] [expires: 2027-05-09]
 
-gpg --keyserver pgp.mit.edu --recv A40BF3856CD1BE14
+[indonesian]
+gunakan public keyku kalo mw kirim pesan:
+gpg --keyserver keyserver.ubuntu.com --recv 4f722ecac601b00a
+
+senang bertemu denganmu
+
+[english]
+use my public keys if you want to send me a messange
+gpg --keyserver keyserver.ubuntu.com --recv 4f722ecac601b00a
+
+nice to meet you
