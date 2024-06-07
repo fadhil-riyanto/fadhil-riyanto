@@ -1,9 +1,17 @@
-sec   ed25519 2024-05-09 [SC] [expires: 2027-05-09]
-      C4B74242E3C3A132389CB3734F722ECAC601B00A
-uid           [ultimate] Fadhil Riyanto <hi@fadev.org>
-ssb   cv25519 2024-05-09 [E] [expires: 2027-05-09]
+HI there, let me introduce myself, My fullname 
+is Fadhil Riyanto, I highly interest in backend programming,
+HPC computing, and low level system and also web development
 
-use my public keys to encrypt
-gpg --keyserver keyserver.ubuntu.com --recv 4f722ecac601b00a
 
-nice to meet you
+my key information
+------------------
+sec   ed25519 2024-06-07 [SC] [expires: 2027-06-07]
+      E6DAA50ED71FD911C45FC46CCCF1E406872BE544
+uid           [ultimate] Fadhil Riyanto <me@fadev.org>
+ssb   cv25519 2024-06-07 [E] [expires: 2027-06-07]
+
+Let import my keys below
+------------------
+gpg --keyserver keyserver.ubuntu.com --recv CCF1E406872BE544
+
+feel free if you want send me an email.
