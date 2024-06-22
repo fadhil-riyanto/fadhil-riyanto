@@ -5,13 +5,17 @@ HPC computing, and low level system and also web development
 
 my key information
 ------------------
+<pre>
 sec   ed25519 2024-06-07 [SC] [expires: 2027-06-07]
       E6DAA50ED71FD911C45FC46CCCF1E406872BE544
 uid           [ultimate] Fadhil Riyanto <me@fadev.org>
 ssb   cv25519 2024-06-07 [E] [expires: 2027-06-07]
+</pre>
 
 Let import my keys below
 ------------------
+<pre>
 gpg --keyserver keyserver.ubuntu.com --recv CCF1E406872BE544
+</pre>
 
 feel free if you want send me an email.
