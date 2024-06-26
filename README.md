@@ -2,20 +2,18 @@ HI there, let me introduce myself, My fullname
 is Fadhil Riyanto, I highly interest in backend programming,
 HPC computing, and low level system and also web development
 
-
 my key information
 ------------------
 <pre>
-sec   ed25519 2024-06-07 [SC] [expires: 2027-06-07]
-      E6DAA50ED71FD911C45FC46CCCF1E406872BE544
-uid           [ultimate] Fadhil Riyanto <me@fadev.org>
-ssb   cv25519 2024-06-07 [E] [expires: 2027-06-07]
+pub   ed25519 2024-06-26 [SC] [expires: 2027-06-26]
+      97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
+uid                      Fadhil Riyanto <me@fadev.org>
+sub   cv25519 2024-06-26 [E] [expires: 2027-06-26]
 </pre>
 
 Let import my keys below
 ------------------
 <pre>
-gpg --keyserver keyserver.ubuntu.com --recv CCF1E406872BE544
+gpg --keyserver keyserver.ubuntu.com --recv 9DA0EA2EAD1D7E47
 </pre>
 
-feel free if you want send me an email.
