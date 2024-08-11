@@ -15,15 +15,8 @@ uid                      Fadhil Riyanto <me@fadev.org>
 sub   cv25519 2024-06-26 [E] [expires: 2027-06-26]
 </pre>
 
-Let import my keys below
+GPG Keys
 ------------------
-<pre>
-gpg --keyserver keyserver.ubuntu.com --recv 9DA0EA2EAD1D7E47
-</pre>
-
-Alternate
-------------------
-if you can't access the server because of firewalls or something else, copy this text below
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
