@@ -11,14 +11,9 @@ my key information
 <pre>
 pub   ed25519 2024-06-26 [SC]
       97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
-uid           [ unknown] Fadhil Riyanto <me@fadev.org>
+uid           [ unknown] Fadhil Riyanto &ltme@fadev.org&gt
 sub   cv25519 2024-06-26 [E]
-</pre>
 
-GPG Keys
-------------------
-
-<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZnuXkhYJKwYBBAHaRw8BAQdAAhUHQ8gab7WWlTb+qhuYzU92A5kwslFxpXpR
