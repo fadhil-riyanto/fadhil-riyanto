@@ -7,7 +7,7 @@ Public keys
 
 pub   ed25519 2024-06-26 [SC]
       97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
-uid           [ unknown] Fadhil Riyanto &ltme@fadev.org&gt
+uid           [ unknown] Fadhil Riyanto <me@fadev.org>
 sub   cv25519 2024-06-26 [E]
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
