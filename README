@@ -1,14 +1,10 @@
-HI there, let me introduce myself, My fullname 
-is Fadhil Riyanto, I highly interest in backend programming,
-HPC computing, low level system and also web development.
-
 Cryptography proof
 ------------------
 https://keyoxide.org/97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
 
-My public keys
+Public keys
 ------------------
-<pre>
+
 pub   ed25519 2024-06-26 [SC]
       97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
 uid           [ unknown] Fadhil Riyanto &ltme@fadev.org&gt
@@ -40,5 +36,4 @@ fkeT+QEAx3yNUl4WqElhDYWIV5M+7qQxrPlQ1Y7HGWbOnm3AwtsBAMqhTryE+k1F
 OhY1unYqFr2D0B/SBBF8qziNIyiP9uwJ
 =qfjb
 -----END PGP PUBLIC KEY BLOCK-----
-</pre>
 
