@@ -8,4 +8,4 @@ $ gpg --recv-keys 97C190BBF7FD0BA7C410F6D89DA0EA2EAD1D7E47
 ```
 
 # links
-bussiness email: me@fadev.org
+bussiness email: me@fadev.org, for any technical stuff use fadhil.riyanto@gnuweeb.org
